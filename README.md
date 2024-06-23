@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashant35512
+- 👋 Hi, I’m @Prashant
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
